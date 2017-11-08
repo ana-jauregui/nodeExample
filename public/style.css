@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+}
+
+div {
+  background-color: pink;
+  height: 100px;
+  margin: 25px;
+  width: 100px;
+}
